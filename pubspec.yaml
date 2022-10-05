@@ -14,11 +14,11 @@ flutter:
         pluginClass: FLTSharePlusPlugin
 
 dependencies:
-  meta: ^1.7.0
-  mime: ^1.0.2
+  meta: 1.7.0
+  mime: 1.0.2
   flutter:
     sdk: flutter
-  share_plus_platform_interface: ^3.0.2
+  share_plus_platform_interface: 3.0.2
 
 dev_dependencies:
   flutter_test:
